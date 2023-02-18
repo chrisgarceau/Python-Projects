@@ -28,10 +28,3 @@ while not check_for_winner(game_board):
         print '\nDraw'.upper()
         print 'Game over.'.upper()
         break
-
-
-
-
-
-
-
