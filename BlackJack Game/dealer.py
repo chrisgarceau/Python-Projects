@@ -1,4 +1,4 @@
-# Class Dealer
+# Dealer Class
 
 class Dealer:
     def __init__(self):
