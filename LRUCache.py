@@ -7,7 +7,7 @@
 # Three methods of a LRU cache:
 #   - put(key, value) should store key and associate it with value. If key does not alreadv exist in the cache, add it. If it does, update the value.
 #   - get(key) should retrieve the value associated with key. If the key does not exist, return -1
-#   - last() should return the key most recentlv accessed by either a get or put call.
+#   - last() should return the key most recently accessed by either a get or put call.
 #
 # The object should also take a maximum capacity.
 # Once capacity is reached, additional calls to put should result in the least recently accessed key and 
